@@ -1,9 +1,9 @@
 <?php
 
-$db_host = "nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$db_user = "snlf1e75emr6xu8z";
-$db_pass = "xaysrwe724xapov3";
-$db_name = "ze4xiva4lm9mohzr";
+$db_host = "iwqrvsv8e5fz4uni.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$db_user = "h1ip4v4a5mpvc24f";
+$db_pass = "ymzhxhursgai0lxr";
+$db_name = "nexet4pxda9grcwm";
 $connect = mysqli_connect($db_host, $db_user, $db_pass, $db_name) or die ("database connection error");
 
 ?>
